@@ -55,7 +55,7 @@ print(cm)
 ```
 
 ## Output:
-![EXPERIMENT 7](https://github.com/user-attachments/assets/0785de50-1128-4ea8-a030-193191270a17)
+![EXPERIMENT 7](https://github.com/user-attachments/assets/f961eb74-1b50-42a6-954c-8d86130a02b8)
 
 
 
